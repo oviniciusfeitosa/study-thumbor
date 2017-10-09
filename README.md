@@ -21,3 +21,8 @@ When you start Thumbor it will start on default port ```8888```.
 ```
 http://localhost:8888/unsafe/-0x-0/http://4.bp.blogspot.com/-6fBAtJqHt60/VVuyzppfiII/AAAAAAAABA4/lkFYjLUvjjw/s1600/o_que_e_xpto.png
 ```
+
+* Applying Filters ( more [here](http://thumbor.readthedocs.io/en/latest/filters.html))
+```
+http://localhost:8888/unsafe/filters:brightness(10):contrast(30)/http://4.bp.blogspot.com/-6fBAtJqHt60/VVuyzppfiII/AAAAAAAABA4/lkFYjLUvjjw/s1600/o_que_e_xpto.png
+```
