@@ -3,7 +3,6 @@
 
 # Steps
 ```
-  * pip install pystan
-  * python setup.py install
+  * sudo apt-get install libcurl4-openssl-dev
   * pip install thumbor
 ```
