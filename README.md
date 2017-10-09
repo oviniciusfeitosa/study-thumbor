@@ -12,7 +12,12 @@
 
 When you start Thumbor it will start on default port ```8888```.
 
-In your browser let's play using crops:
+* In your browser let's play changing sizes:
 ```
   http://localhost:8888/unsafe/1000x1000/http://4.bp.blogspot.com/-6fBAtJqHt60/VVuyzppfiII/AAAAAAAABA4/lkFYjLUvjjw/s1600/o_que_e_xpto.png
+```
+
+* Flipping the image
+```
+http://localhost:8888/unsafe/-0x-0/http://4.bp.blogspot.com/-6fBAtJqHt60/VVuyzppfiII/AAAAAAAABA4/lkFYjLUvjjw/s1600/o_que_e_xpto.png
 ```
