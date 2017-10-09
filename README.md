@@ -2,4 +2,8 @@
 
 
 # Steps
-* pip install thumbor
+```
+  * pip install pystan
+  * python setup.py install
+  * pip install thumbor
+```
