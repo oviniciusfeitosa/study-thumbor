@@ -1,5 +1,7 @@
 # study-thumbor
 
+This project was for study proposal only.
+
 ### Steps
 ```
   $ sudo apt-get install libcurl4-openssl-dev
